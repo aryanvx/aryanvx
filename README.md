@@ -3,17 +3,17 @@
 
 - 🌱 I’m currently learning **C++ in the context of competitive programming, data structures & algorithms, and quantitative development**
 
-- 👨‍💻 All of my projects are available at [https://aryanvx.github.io/portfolio/](https://aryanvx.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at: [https://aryanvx.github.io/portfolio/](https://aryanvx.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://aryanvx.github.io/portfolio/blogs.html](https://aryanvx.github.io/portfolio/blogs.html)
+- 📝 I regularly write articles on: [https://aryanvx.github.io/portfolio/blogs.html](https://aryanvx.github.io/portfolio/blogs.html)
 
-- 💬 Ask me about **Bootstrap frameworks, the use of Vanilla, and React**
+- 💬 Ask me about **Python Flask apps, the use of Vanilla in frontend development, and React**
 
-- 📫 How to reach me **aryan.x.vyahalkar@gmail.com**
+- 📫 How to reach me: **aryan.x.vyahalkar@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/kvgbsqqtwngg#3062d8](https://www.overleaf.com/read/kvgbsqqtwngg#3062d8)
+- 📄 Know about my experiences: [https://www.overleaf.com/read/kvgbsqqtwngg#3062d8](https://www.overleaf.com/read/kvgbsqqtwngg#3062d8)
 
-- ⚡ Fun fact **My favorite book is The Reluctant Fundamentalist by Mohsin Hamid**
+- ⚡ Fun fact: **My favorite book is The Reluctant Fundamentalist by Mohsin Hamid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
