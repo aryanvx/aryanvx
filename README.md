@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Aryan Vyahalkar, and I'm a high schooler with a passion for quantitative development, computer science, and within it, data structures & algorithms.</h2>
 
+
+
 ###
 
 <div align="center">
@@ -7,6 +9,9 @@
 </div>
 
 ###
+
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
