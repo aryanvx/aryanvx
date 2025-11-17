@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate developer and former student-athlete with a concentration on engineering systems targeted to amplify human discipline.</h3>
 
-- 🔭 I’m currently working on **VoiceCode Studio**
-
 - 🌱 I’m currently learning **C++ in the context of competitive programming, data structures & algorithms, and quantitative development**
 
 - 👨‍💻 All of my projects are available at [https://aryanvx.github.io/portfolio/](https://aryanvx.github.io/portfolio/)
