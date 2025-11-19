@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on: [https://aryanvx.github.io/portfolio/blogs.html](https://aryanvx.github.io/portfolio/blogs.html)
 
-- 💬 Ask me about **Python Flask apps, the use of Vanilla in frontend development, and React**
+💬 Ask me about building Python Flask web apps + creating interactive React frontends + integrating third-party APIs to connect everything together, from authentication to data visualization.
 
 - 📫 How to reach me: **aryan.x.vyahalkar@gmail.com**
 
