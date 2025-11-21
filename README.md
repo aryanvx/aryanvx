@@ -25,7 +25,7 @@
 
 <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvx&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=aryanvx&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=aryanvx&limit=5&theme=shadow_blue&hide_border=true&combine_all_yearly_contributions=true" />
 </p>
 
 
